@@ -14,6 +14,10 @@ This project is a simple and responsive registration form built using HTML and C
 - HTML5
 - CSS3
 
+
+URL:
+https://akashadhi46.github.io/register-form/
+
  How to Use
 
 1. Clone the repository:
